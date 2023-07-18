@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Damjan
 I'm Damjan from Serbia, and I am a Software Engineer. I really enjoy learning new things, languages, frameworks. I also enjoy learning about various areas of programming and computer science, like cloud computing, microservices, web services, web apps(both frontend and backend), etc. I graduated in Electrical and Computer Engineering at the Faculty of Technical Science, at the University of Novi Sad.
 
-![Background](https://github.com/daammiix/daammiix/blob/main/Linkedin_Background.jpg)
-
 ## Skills
 [![Skills](https://skillicons.dev/icons?i=dotnet,cs,react,mysql,azure,git,ts,js,go,java,postgres,mongodb,docker,aws,sass,css,materialui,html,cpp,c)](https://skillicons.dev)
 
